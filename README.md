@@ -33,6 +33,7 @@ I love building AI-powered apps, browser agents, and exploring how **Generative 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://img.icons8.com/?size=100&id=TUk7vxvtu6hX&format=png&color=000000" alt="OpenAI" width="40" height="40"/> 
+  <img src="https://cdn.brandfetch.io/idzf7Sjo28/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" alt="LangChain" width="40" height="40"/>
 </p>
 
 ---
