@@ -16,12 +16,38 @@ I love building AI-powered apps, browser agents, and exploring how **Generative 
 ---
 
 ## 🛠 Tech Stack  
-- **Languages**: JavaScript, TypeScript, Python  
-- **Frontend**: React, Next.js, TailwindCSS  
-- **Backend**: Node.js, Express.js  
-- **Databases**: MongoDB, PostgreSQL  
-- **GenAI & Tools**: OpenAI SDK, Gemini API, LangChain, Puppeteer, Playwright  
-- **Other**: Git, Docker, REST APIs  
+
+### 🚀 Languages  
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python" height="40" />
+</p>
+
+### 🎨 Frontend  
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" height="40" />
+</p>
+
+### ⚙️ Backend  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" height="40" />
+</p>
+
+### 🗄 Databases  
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql" height="40" />
+</p>
+
+### 🤖 GenAI & Tools  
+<p>
+  <img src="https://skillicons.dev/icons?i=openai" height="40" /> 
+  <img src="https://skillicons.dev/icons?i=puppeteer" height="40" />
+</p>
+
+### 🔧 Others  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker" height="40" />
+</p>
+
 
 ---
 
