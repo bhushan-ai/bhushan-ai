@@ -1,66 +1,53 @@
-# Hi 👋, I'm Bhushan  
+# Hi 👋, I'm Bhushan
 
-💻 **Full-Stack Developer | GenAI Enthusiast | MERN + Agents + RAG**  
+💻 **Full-Stack Developer | GenAI Enthusiast | MERN + Agents + RAG**
 
-I love building AI-powered apps, browser agents, and exploring how **Generative AI + JavaScript** can change the way we interact with the web.  
-
----
-
-## 🚀 About Me  
-- 🌱 Currently diving deep into **Generative AI & LLMs (with JS)**  
-- 🤖 Building **agents, RAG apps, and browser automation tools**  
-- 🛠 Skilled in **MERN stack, Puppeteer, Playwright, Next.js**  
-- 📌 Exploring **OpenAI SDKs, Google Gemini API, and LangChain**  
-- ⚡ Fun fact: I can sit coding for hours when I’m in flow mode 🎧  
+I love building AI-powered apps, browser agents, and exploring how **Generative AI + JavaScript** can change the way we interact with the web.
 
 ---
 
-## 🛠 Tech Stack  
+## 🚀 About Me
 
-### 🚀 Languages  
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python" height="40" />
-</p>
-
-### 🎨 Frontend  
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" height="40" />
-</p>
-
-### ⚙️ Backend  
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" height="40" />
-</p>
-
-### 🗄 Databases  
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql" height="40" />
-</p>
-
-### 🤖 GenAI & Tools  
-<p>
-  <img src="https://skillicons.dev/icons?i=openai" height="40" /> 
-  <img src="https://skillicons.dev/icons?i=puppeteer" height="40" />
-</p>
-
-### 🔧 Others  
-<p>
-  <img src="https://skillicons.dev/icons?i=git,docker" height="40" />
-</p>
-
+- 🌱 Currently diving deep into **Generative AI & LLMs (with JS)**
+- 🤖 Building **agents, RAG apps, and browser automation tools**
+- 🛠 Skilled in **MERN stack,Next.js and Backend**
+- 📌 Exploring **OpenAI SDKs, Google Gemini API, and LangChain**
+- ⚡ Fun fact: I can sit coding for hours when I’m in flow mode 🎧
 
 ---
 
-## 📌 Featured Projects  
+## 🛠 Languages and Tools:
+
+<p align="left"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/> 
+  <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" alt="Node.js" width="40" height="40"/> 
+  <img src="https://img.icons8.com/?size=100&id=PZQVBAxaueDJ&format=png&color=000000" alt="Express" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/> 
+   <img src="https://raw.githubusercontent.com/qdrant/qdrant/master/docs/logo.svg" alt="QdrantDB"width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=TUk7vxvtu6hX&format=png&color=000000" alt="OpenAI" width="40" height="40"/> 
+ 
+</p>
+
+## 📌 Featured Projects
+
 🔹 [Browser Agent (OpenAI Agent SDK + Puppeteer)](https://github.com/bhushan-ai/browser-agent-by-OpenAi-AgentSdk) – Automating the web with AI 🤖  
-🔹 [NotebookLite (RAG-powered Note-taking App)](https://github.com/bhushan-ai/nextjs-Rag-application-NoteBookLite) – RAG with Next.js & LangChain 📝  
+🔹 [NotebookLite (RAG-powered Note-taking App)](https://github.com/bhushan-ai/nextjs-Rag-application-NoteBookLite) – RAG with Next.js & LangChain 📝
 
 ---
 
-## 🌐 Connect With Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/bhushan-ai)  
-- 🐦 [Twitter / X](https://x.com/bhushan_ai)  
-- 📧 bhushan@example.com  
+## 🌐 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/bhushan-ai)
+- 🐦 [Twitter / X](https://x.com/bhushan_ai)
+- 📧 bhushan@example.com
 
 ---
 
