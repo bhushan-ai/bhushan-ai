@@ -10,7 +10,7 @@ I love building AI-powered apps, browser agents, and exploring how **Generative 
 
 - 🌱 Currently diving deep into **Generative AI & LLMs (with JS)**
 - 🤖 Building **agents, RAG apps, and browser automation tools**
-- 🛠 Skilled in **MERN stack,Next.js and Backend**
+- 🛠 Skilled in **MERN stack, Next.js and Backend**
 - 📌 Exploring **OpenAI SDKs, Google Gemini API, and LangChain**
 - ⚡ Fun fact: I can sit coding for hours when I’m in flow mode 🎧
 
@@ -29,12 +29,13 @@ I love building AI-powered apps, browser agents, and exploring how **Generative 
   <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" alt="Node.js" width="40" height="40"/> 
   <img src="https://img.icons8.com/?size=100&id=PZQVBAxaueDJ&format=png&color=000000" alt="Express" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/> 
-   <img src="https://raw.githubusercontent.com/qdrant/qdrant/master/docs/logo.svg" alt="QdrantDB"width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/qdrant/qdrant/master/docs/logo.svg" alt="QdrantDB" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://img.icons8.com/?size=100&id=TUk7vxvtu6hX&format=png&color=000000" alt="OpenAI" width="40" height="40"/> 
- 
 </p>
+
+---
 
 ## 📌 Featured Projects
 
@@ -45,9 +46,10 @@ I love building AI-powered apps, browser agents, and exploring how **Generative 
 
 ## 🌐 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/bhushan-ai)
-- 🐦 [Twitter / X](https://x.com/bhushan_ai)
-- 📧 bhushan@example.com
+- 🌍 [Portfolio](https://bhushan-ai.netlify.app)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/bhushan-ai)  
+- 🐦 [Twitter / X](https://x.com/bhushan_ai)  
+- 📧 bhushan@example.com  
 
 ---
 
