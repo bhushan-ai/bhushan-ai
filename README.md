@@ -49,8 +49,8 @@ I love building AI-powered apps, browser agents, and exploring how **Generative 
 
 - 🌍 [Portfolio](https://bhushan-ai.netlify.app)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/bhushan-ai)  
-- 🐦 [Twitter / X](https://x.com/bhushan_ai)  
-- 📧 bhushan@example.com  
+- 🐦 [Twitter / X](https://x.com/bhushann_ai)  
+- 📧 bhushaningole2004@gmail.com  
 
 ---
 
