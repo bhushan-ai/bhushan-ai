@@ -2,7 +2,7 @@
 
 💻 **Full-Stack & Backend Dev | GenAI Enthusiast | MERN + Agents + RAG**
 
-I love building AI-powered apps, browser agents, and exploring how **Generative AI + JavaScript** can change the way we interact with the web.
+I love building AI-powered apps, ai agents, RAG and exploring how **Generative AI + JavaScript** can change the way we interact with the web.
 
 ---
 
