@@ -10,7 +10,7 @@ I love building AI-powered apps, ai agents, RAG and exploring how **Generative A
 
 - 🌱 Currently diving deep into **Generative AI & LLMs (with JS)**
 - 🤖 Building **agents, RAG apps, and Backends**
-- 🛠 Skilled in **MERN stack, Next.js and Backend**
+- 🛠 Skilled in **MERN stack, Next.js and Backend Dev**
 - 📌 Exploring **OpenAI SDKs, Google Gemini API, and LangChain**
 - ⚡ Fun fact: I can sit coding for hours when I’m in flow mode 🎧
 
