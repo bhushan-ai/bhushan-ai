@@ -1,4 +1,4 @@
-# Hi 👋, I'm Bhushan
+## I'm bhushann
 
 💻 **Full-Stack & Backend Dev | GenAI Enthusiast | MERN + Agents + RAG**
 
