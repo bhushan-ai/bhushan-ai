@@ -24,11 +24,9 @@ I love building AI-powered apps, ai agents, RAG and exploring how **Generative A
 
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" alt="OpenAI" width="50" height="50"/>
-  
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" alt="LangChain" width="50" height="50"/>
-  
-  <img src="https://raw.githubusercontent.com/qdrant/qdrant/master/docs/logo.svg" alt="Qdrant" width="50" height="50"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Qdrant-FF4F8B?style=for-the-badge" />
 </p>
 
 ---
