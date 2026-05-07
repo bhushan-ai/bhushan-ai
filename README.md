@@ -19,9 +19,14 @@ I love building AI-powered apps, ai agents, RAG and exploring how **Generative A
 ## 🛠 Languages and Tools:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,prisma,docker,git" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,react,nextjs,nodejs,express,mongodb,postgres,prisma,docker,git" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Qdrant-FF4F8B?style=for-the-badge" />
+</p>
 
 ---
 
