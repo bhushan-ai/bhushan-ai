@@ -19,7 +19,7 @@ I love building AI-powered apps, ai agents, RAG and exploring how **Generative A
 ## 🛠 Languages and Tools:
 <p align="center">
   <img 
-    src="https://skillicons.dev/icons?i=c,cpp,js,ts,react,nextjs,nodejs,express,bun,mongodb,mysql,postgres,supabase,prisma,redis,postman,docker,git&perline=17&size=30" 
+    src="https://skillicons.dev/icons?i=c,cpp,js,ts,react,nextjs,nodejs,express,bun,mongodb,mysql,postgres,supabase,prisma,redis,postman,docker,git&perline=18&size=30" 
   />
 </p>
 
