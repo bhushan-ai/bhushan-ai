@@ -34,9 +34,9 @@ I love building AI-powered apps, ai agents, RAG and exploring how **Generative A
 
 ## 📌 Featured Projects
 
-🔹 [Browser Agent (OpenAI Agent SDK + Puppeteer)](https://github.com/bhushan-ai/browser-agent-by-OpenAi-AgentSdk) – Automating the web with AI 🤖  
-🔹 [NotebookLite (RAG-powered Note-taking App)](https://github.com/bhushan-ai/nextjs-Rag-application-NoteBookLite) – RAG with Next.js & LangChain 📝
+🔹 [Scalable Real-Time Chat Application (TypeScript, PostgreSQL, Prisma, Redis, AWS S3)](https://github.com/bhushan-ai/Postgres-Pro/tree/main/chat-app) – Real-time messaging with Socket.IO, Redis Pub/Sub, BullMQ, cursor pagination, and JWT authentication.
 
+🔹 [NotebookLite (RAG-powered Note-taking App)](https://github.com/bhushan-ai/nextjs-Rag-application-NoteBookLite) – RAG with Next.js & LangChain 📝
 ---
 
 ## 🌐 Connect With Me
