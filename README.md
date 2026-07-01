@@ -1,17 +1,17 @@
 # I'm bhushann
 
-💻 **Backend Dev | GenAI Enthusiast | MERN + Agents + RAG**
+💻 **Backend Developer | Node.js | TypeScript | Distributed Systems | AI/LLM**
 
-I love building AI-powered apps, ai agents, RAG and exploring how **Generative AI + JavaScript** can change the way we interact with the web.
+I love building **scalable backend systems, real-time applications, and AI-powered products**. I'm passionate about backend architecture, distributed systems, and integrating **Generative AI** into production-ready applications.
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 Currently diving deep into **Generative AI & LLMs (with JS)**
-- 🤖 Building **agents, RAG apps, and Backends**
-- 🛠 Skilled in **MERN stack, Next.js and Backend Dev**
-- 📌 Exploring **OpenAI SDKs, Google Gemini API, and LangChain**
+- 🌱 Currently diving deep into **Distributed Systems, System Design & Cloud Technologies**
+- 🤖 Building **AI-powered applications, RAG systems, and scalable backends**
+- 🛠 Skilled in **Node.js, TypeScript, PostgreSQL, Prisma, Redis, Docker, and AWS**
+- 📌 Exploring **OpenAI, LangChain, Kubernetes, BullMQ, and Redis Pub/Sub**
 - ⚡ Fun fact: I can sit coding for hours when I’m in flow mode 🎧
 
 ---
@@ -19,10 +19,9 @@ I love building AI-powered apps, ai agents, RAG and exploring how **Generative A
 ## 🛠 Languages and Tools:
 <p align="center">
   <img 
-    src="https://skillicons.dev/icons?i=c,cpp,js,ts,react,nextjs,nodejs,express,bun,mongodb,mysql,postgres,supabase,prisma,redis,aws,postman,docker,git&perline=19&size=30" 
+    src="https://skillicons.dev/icons?i=c,cpp,js,ts,react,nextjs,nodejs,express,bun,mongodb,mysql,postgres,prisma,redis,docker,kubernetes,aws,postman,git&perline=19&size=30" 
   />
 </p>
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
@@ -36,7 +35,8 @@ I love building AI-powered apps, ai agents, RAG and exploring how **Generative A
 
 🔹 [Scalable Real-Time Chat Application (TypeScript, PostgreSQL, Prisma, Redis, AWS S3)](https://github.com/bhushan-ai/Postgres-Pro/tree/main/chat-app) – Real-time messaging with Socket.IO, Redis Pub/Sub, BullMQ, cursor pagination, and JWT authentication.
 
-🔹 [NotebookLite (RAG-powered Note-taking App)](https://github.com/bhushan-ai/nextjs-Rag-application-NoteBookLite) – RAG with Next.js & LangChain 📝
+🔹 [NotebookLite (RAG-powered Note-taking App)](https://github.com/bhushan-ai/nextjs-Rag-application-NoteBookLite) – RAG with Next.js, LangChain, OpenAI, and Qdrant.
+
 ---
 
 ## 🌐 Connect With Me
