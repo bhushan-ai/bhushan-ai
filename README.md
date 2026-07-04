@@ -10,7 +10,7 @@ I love building **scalable backend systems, real-time applications, and AI-power
 
 - 🌱 Currently diving deep into **Distributed Systems, System Design & Cloud Technologies**
 - 🤖 Building **AI-powered applications, RAG systems, and scalable backends**
-- 🛠 Skilled in **Node.js, TypeScript, PostgreSQL, Prisma, Redis, Docker, and AWS**
+- 🛠 Skilled in **JavaScript, Node.js, Express, TypeScript, PostgreSQL, MongoDB, Prisma, Redis, Docker, and AWS**
 - 📌 Exploring **OpenAI, LangChain, Kubernetes, BullMQ, and Redis Pub/Sub**
 - ⚡ Fun fact: I can sit coding for hours when I’m in flow mode 🎧
 
