@@ -19,7 +19,7 @@ I love building **scalable backend systems, real-time applications, and AI-power
 ## 🛠 Languages and Tools:
 <p align="center">
   <img 
-    src="https://skillicons.dev/icons?i=c,cpp,js,ts,react,nextjs,nodejs,express,bun,mongodb,mysql,postgres,prisma,redis,docker,kubernetes,aws,postman,git&perline=19&size=30" 
+    src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,react,nextjs,nodejs,express,bun,mongodb,mysql,postgres,prisma,redis,docker,kubernetes,aws,postman,git&perline=20&size=30" 
   />
 </p>
 
